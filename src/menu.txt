@@ -1,0 +1,28 @@
+*wahtsapp bot-md downloader*
+
+*Info!*
+whatsapp bot multi device ini di run dan di encoding oleh ilham - skhyzi melalui github dan vps
+
+*Social Media Downloader Bot*
+[ kirimkan link post dari social media yang ingin di download, dan tunggu bot memproses ] - contoh : https://www.instagram.com/il_skhyzi
+
+*Supported links* :
+*├* Facebook [support public groups]
+*├* TikTok
+*├* Instagram <stories | highlights | post | reel | tv>
+*├* Pinterest <photo | video>
+*└* Twitter <photo | video> [support multiple media]
+
+
+*CMD*
+*├* prefix ytmp3 <url> (--metadata | --vn)
+*├* prefix ytmp4 <url>
+*├* prefix play <judul lagu>
+*├* prefix music <judul lagu>
+*├* prefix sticker <reply/send> image | video | url
+*├* prefix tomp3 <reply/send> video
+*├* prefix 8d <reply/send> video 
+*├* prefix extract <reply a sticker> -> extract sticker exif
+*└* prefix toimg <reply a sticker>
+
+*Note :* Jika menemukan bug, atau terdapat fitur bot yang error. jangan sungkan lapor ke owner agar segera diperbaiki.
