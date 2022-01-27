@@ -1,7 +1,11 @@
 {
-    "name": "nganu",
-    "description": "a simple whatsapp bot social media downloader",
-    "repository": "https://github.com/Gimenz/nganu",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
-    "keywords": ["bot", "whatsapp-bot", "bot-wa"]
-  }
+  "name": "FRM",
+  "description": "HEROKU",
+  "repository": "https://github.com/frmdeveloper/frmdev",
+  "logo": "https://www.frm.rf.gd/Logo_FRM-picsay.png",
+  "keywords": ["VPS", "HEROKU", "Free", "Firefox", "novnc", "VNC", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
+
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
